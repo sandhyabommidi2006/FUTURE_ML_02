@@ -29,8 +29,6 @@ This project automates ticket classification using NLP and Machine Learning tech
 
 ✅ Tokenization
 
-✅ TF-IDF Feature Extraction
-
 ✅ Ticket Category Classification
 
 ✅ Model Performance Evaluation

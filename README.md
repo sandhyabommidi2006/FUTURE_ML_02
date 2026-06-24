@@ -50,10 +50,9 @@ This project automates ticket classification using NLP and Machine Learning tech
 
 ## 📂 Project Structure
 
+![support ticket output] ()
 
-
-
-
+![support ticket output2] ()
 
 
 

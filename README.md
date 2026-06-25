@@ -1,4 +1,4 @@
-# 🚀 Support Ticket Classification System (NLP)
+# 🚀 (NLP)
 
 ---
 ## 📌 Overview
@@ -48,11 +48,7 @@ This project automates ticket classification using NLP and Machine Learning tech
 
 ---
 
-## 📂 Project Structure
-
-![Output 1](support%20ticket%20output.png.jpg)
-
-![Output 2](support%20ticket%20output(2).png.jpg)
+## 📂 Documents
 
 
 ✅ Conclusion

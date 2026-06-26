@@ -32,12 +32,14 @@ To reduce manual work and improve customer support efficiency by automatically p
 
 Dataset Used:
 
-IT Service Ticket Classification Dataset.csv
+IT Service Ticket Classification Dataset (Kaggle)
 
 The dataset contains:
 
 * Ticket Description
 * Ticket Category
+
+Note: Since the dataset did not contain priority labels, High, Medium, and Low priorities were generated using predefined business rules, and a separate classifier was trained on these generated labels.
 
 ---
 

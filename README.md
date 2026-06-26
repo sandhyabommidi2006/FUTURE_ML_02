@@ -31,7 +31,8 @@ To reduce manual work and improve customer support efficiency by automatically p
 ## 📂 Dataset
 
 Dataset Used:
-**customer_support_tickets.csv**
+
+customer_support_tickets.csv
 
 The dataset contains:
 
@@ -58,3 +59,5 @@ Add screenshot here.
 
 ---
 
+## Conclusion
+This project successfully developed a Machine Learning model to classify customer support tickets into different categories. The model achieved good prediction accuracy and demonstrated how NLP and Machine Learning can automate customer support processes efficiently.

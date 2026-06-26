@@ -1,6 +1,6 @@
-### FUTURE_ML_02 
+## FUTURE_ML_02 
 
-### Customer Support Ticket Classification using Machine Learning
+## Customer Support Ticket Classification using Machine Learning
 
 ## 📌 Project Overview
 
@@ -57,9 +57,13 @@ The dataset contains:
 ![Prediction Preview](Prediction_ticket_output.jpg)
 
 ## Confusion matrix
+
 ![Confusion Matrix](Confusion matrix.jpg)
+
+
 ---
 
-## Conclusion
+## Conclusion : 
+
 This project successfully developed a Machine Learning model to classify customer support tickets into different categories. The model achieved good prediction accuracy and demonstrated how NLP and Machine Learning can automate customer support processes efficiently.
 

@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project is developed as part of the **Future Interns Machine Learning Internship – Task 2.
+This project is developed as part of the **Future Interns Machine Learning Internship – Task 2**.
 
 The objective of this project is to build a Machine Learning model that automatically classifies customer support tickets into their respective categories.
 

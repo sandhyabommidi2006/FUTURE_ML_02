@@ -32,7 +32,7 @@ To reduce manual work and improve customer support efficiency by automatically p
 
 Dataset Used:
 
-customer_support_tickets.csv
+IT Service Ticket Classification Dataset.csv
 
 The dataset contains:
 

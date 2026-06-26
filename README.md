@@ -44,18 +44,17 @@ The dataset contains:
 
 ## 📸 Output Screenshots
 
-### Dataset Preview
-
-
-
-
-### Prediction Output
-
-
-
 ### Graph Output 
 
+![Graph Output](Graph_output.jpg)
 
+### Dataset Preview Output
+
+![Dataset Preview](dataset_preview.jpg)
+
+### Prediction Output 
+
+![Dataset Preview](screenshots/dataset_preview.png)
 ---
 
 ## Conclusion

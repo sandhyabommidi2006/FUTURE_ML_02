@@ -39,8 +39,7 @@ The dataset contains:
 * Ticket Description
 * Ticket Category
 
-Note: Since the dataset did not contain priority labels, High, Medium, and Low priorities were generated using predefined business rules, and a separate classifier was trained on these generated labels.
-
+**Note:** The dataset used in this project is the IT Service Ticket Classification Dataset obtained from Kaggle. It contains 47,837 customer support tickets across 8 different categories. The dataset was used to train and evaluate a Machine Learning model for automatically classifying support tickets based on their textual descriptions.
 ---
 
 ## 📸 Output Screenshots

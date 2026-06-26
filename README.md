@@ -46,7 +46,7 @@ The dataset contains:
 
 ## Graph 
 
-![Graph Output](Output Graph.jpg)
+![Graph Output](Graph_output.jpg)
 
 ## Dataset Preview 
 
@@ -58,7 +58,7 @@ The dataset contains:
 
 ## Confusion matrix
 
-![Confusion Matrix](Confusion matrix.jpg)
+![Confusion Matrix](Confusion-matrix.jpg)
 
 
 ---

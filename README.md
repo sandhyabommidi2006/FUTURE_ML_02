@@ -45,7 +45,7 @@ The dataset contains:
 
 ### Dataset Preview
 
-Add screenshot here.
+
 
 
 ### Prediction Output

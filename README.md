@@ -46,15 +46,15 @@ The dataset contains:
 
 ### Graph Output 
 
-![Graph Output](Graph_output.jpg)
+![Graph Output](Output Graph.jpg)
 
 ### Dataset Preview Output
 
-![Dataset Preview](dataset_preview.jpg)
+![Dataset Preview](Output.jpg)
 
 ### Prediction Output 
 
-![Dataset Preview](screenshots/dataset_preview.png)
+![Prediction Preview](Prediction_ticket_output.jpg)
 ---
 
 ## Conclusion

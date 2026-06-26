@@ -44,20 +44,22 @@ The dataset contains:
 
 ## 📸 Output Screenshots
 
-### Graph Output 
+## Graph 
 
 ![Graph Output](Output Graph.jpg)
 
-### Dataset Preview Output
+## Dataset Preview 
 
 ![Dataset Preview](Output.jpg)
 
-### Prediction Output 
+## Prediction_ticket 
 
 ![Prediction Preview](Prediction_ticket_output.jpg)
+
+## Confusion matrix
+![Confusion Matrix](Confusion matrix.jpg)
 ---
 
 ## Conclusion
 This project successfully developed a Machine Learning model to classify customer support tickets into different categories. The model achieved good prediction accuracy and demonstrated how NLP and Machine Learning can automate customer support processes efficiently.
-# 🎫 Customer Support Ticket Classification using Machine Learning
 

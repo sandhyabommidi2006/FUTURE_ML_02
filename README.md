@@ -39,7 +39,7 @@ The dataset contains:
 * Ticket Description
 * Ticket Category
 
-**Note:** The dataset used in this project is the IT Service Ticket Classification Dataset obtained from Kaggle. It contains 47,837 customer support tickets across 8 different categories. The dataset was used to train and evaluate a Machine Learning model for automatically classifying support tickets based on their textual descriptions.
+> Note: The dataset used in this project is the IT Service Ticket Classification Dataset obtained from Kaggle. It contains 47,837 customer support tickets across 8 different categories. The dataset was used to train and evaluate a Machine Learning model for automatically classifying support tickets based on their textual descriptions.
 ---
 
 ## 📸 Output Screenshots
@@ -62,3 +62,5 @@ The dataset contains:
 
 ## Conclusion
 This project successfully developed a Machine Learning model to classify customer support tickets into different categories. The model achieved good prediction accuracy and demonstrated how NLP and Machine Learning can automate customer support processes efficiently.
+# 🎫 Customer Support Ticket Classification using Machine Learning
+

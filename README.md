@@ -1,6 +1,6 @@
 ### FUTURE_ML_02 
 
-## Customer Support Ticket Classification using Machine Learning
+### Customer Support Ticket Classification using Machine Learning
 
 ## 📌 Project Overview
 

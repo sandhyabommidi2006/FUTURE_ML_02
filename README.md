@@ -1,4 +1,6 @@
-# Customer Support Ticket Classification using Machine Learning
+### FUTURE_ML_02 
+
+## Customer Support Ticket Classification using Machine Learning
 
 ## 📌 Project Overview
 
@@ -49,18 +51,10 @@ Add screenshot here.
 
 
 
-### Graph
-
+### Graph Output 
 
 
 ---
 
 ---
 
-## 👩‍💻 Author
-
-Sandhya Rani Bommidi
-
-B.Tech – Computer Science and Systems Engineering
-
-Future Interns Machine Learning Intern

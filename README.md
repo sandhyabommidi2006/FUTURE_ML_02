@@ -52,13 +52,13 @@ The dataset contains:
 
 ![Dataset Preview](Output.jpg)
 
-## Prediction_ticket 
+## Sample prediction 
 
-![Prediction Preview](Prediction_ticket_output.jpg)
+![Sample prediction](Prediction_ticket_output.jpg)
 
 ## Confusion matrix
 
-![Confusion Matrix](Confusion-matrix.jpg)
+![Confusion Matrix](Confusion_matrix.jpg)
 
 
 ---

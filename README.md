@@ -1,57 +1,66 @@
-# 🚀 (NLP)
+# Customer Support Ticket Classification using Machine Learning
 
----
-## 📌 Overview
+## 📌 Project Overview
 
-This project builds a Natural Language Processing (NLP) based system to automatically classify customer support tickets into different categories.
+This project is developed as part of the **Future Interns Machine Learning Internship – Task 2.
 
-The model analyzes ticket text and predicts the appropriate support category, helping organizations improve customer service efficiency.
+The objective of this project is to build a Machine Learning model that automatically classifies customer support tickets into their respective categories.
 
----
-
-## 🎯 Problem Statement
-
-Customer support teams receive thousands of tickets every day.
-
-Manually categorizing these tickets is:
-
-- Time-consuming
-- Error-prone
-- Inefficient
-
-This project automates ticket classification using NLP and Machine Learning techniques.
 
 ---
 
-## ⚙️ Features
+## 🎯 Objective
 
-✅ Text Cleaning & Preprocessing
-
-✅ Tokenization
-
-✅ Ticket Category Classification
-
-✅ Model Performance Evaluation
-
-✅ Visualization using Matplotlib
+To reduce manual work and improve customer support efficiency by automatically predicting the category of support tickets.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- NLTK
-- Scikit-Learn
-- Matplotlib
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* VS Code
 
 ---
 
-## 📂 Documents
+## 📂 Dataset
+
+Dataset Used:
+**customer_support_tickets.csv**
+
+The dataset contains:
+
+* Ticket Description
+* Ticket Category
+
+---
+
+## 📸 Output Screenshots
+
+### Dataset Preview
+
+Add screenshot here.
 
 
-## ✅ Conclusion
+### Prediction Output
 
-This project demonstrates how NLP and Machine Learning can automate customer support ticket classification.
-The system improves efficiency, reduces manual effort, and helps support teams handle tickets faster and more accurately.
+
+
+### Graph
+
+
+
+---
+
+---
+
+## 👩‍💻 Author
+
+Sandhya Rani Bommidi
+
+B.Tech – Computer Science and Systems Engineering
+
+Future Interns Machine Learning Intern

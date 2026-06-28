@@ -60,7 +60,9 @@ The dataset contains:
 
 ![Confusion Matrix](Confusion_matrix.jpg)
 
+## Model Accuracy 
 
+![Model Accuracy](Model_accuracy.jpg)
 ---
 
 ## Conclusion : 
